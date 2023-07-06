@@ -1,0 +1,39 @@
+{
+  "TenantHost": "appxite-rethink-front-p3-test-01.azurewebsites.net",
+  "TenantHostId": "6b83672c-d504-41ed-95c2-6e0181675d16",
+  "TenantId": "a19f580f-6a3e-4fb0-bd8e-04ee343b9096",
+  "TenantCountryCode": "NO",
+  "Culture": "en-US",
+  "OnBehalfOfId": "a19f580f-6a3e-4fb0-bd8e-04ee343b9096",
+  "User": {
+    "Roles": [
+                "Account manager",
+                "Seller billing admin",
+                "Customer billing admin",
+                "Seller admin",
+                "Customer",
+                "Customer admin",
+                "Product manager",
+                "Subscription Manager",
+                "Reseller Reports",
+                "Super admin",
+                "Support agent",
+                "Distributor admin",
+                "Billing Admin - new"
+            ],
+    "Identity": {
+      "AuthenticationType": "JWT",
+      "Id": "a19f580f-6a3e-4fb0-bd8e-04ee343b9096",
+      "ExternalId": "auth0|649ff90837f2a2464ae3d78b",
+      "UserAccountState": "Active",
+      "Email": "my_home_mail565@mail.de",
+      "FirstName": "No",
+      "LastName": "my_home_mail565@mail.de",
+      "CreatedOnUtc": "2023-07-01T09:59:43.3544993"
+    }
+  },
+  "UserAuthenticated": true,
+  "NeedToAgreeTermsOfService": false,
+  "NeedToLoadFromPrices": false,
+  "IsTenantUsingCustomLocalization": false
+}
